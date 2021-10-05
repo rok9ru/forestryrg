@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "forestryrg:block_apatite"
+    }
+  ],
+  "result": {
+    "item": "forestryrg:apatite",
+    "count": 9
+  }
+}

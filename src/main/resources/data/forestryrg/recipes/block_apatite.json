@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "forestryrg:apatite"
+    }
+  },
+  "result": {
+    "item": "forestryrg:block_apatite",
+    "count": 1
+  }
+}
